@@ -82,6 +82,19 @@ export const mockData = {
           "name": "sub store",
           "url": "https://d.66778.xyz/?api=https%3A%2F%2Fsub.66778.xyz",
           "description": "机场+节点订阅集中管理"
+        },
+        {
+          "id": "site-1760454170789",
+          "name": "1lanel面板",
+          "url": "https://pandl.klxey.top/",
+          "description": "服务器在国外",
+          "icon": ""
+        },
+        {
+          "id": "site-1760454195655",
+          "name": "1panel",
+          "url": "http://120.220.76.58:29999/",
+          "description": "机器在国内枣庄"
         }
       ]
     },
