@@ -110,7 +110,7 @@ export const mockData = {
     },
     {
       "id": "finance",
-      "name": "财经投资",
+      "name": "已购VPS-官网",
       "icon": "💰",
       "order": 3,
       "sites": []
