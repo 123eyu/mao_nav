@@ -59,7 +59,7 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "个人配置页",
       "icon": "🛠️",
       "order": 2,
       "sites": [
@@ -189,7 +189,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "OLDFish",
-  "_fileSha": "a5f03ab112d6ba2f149e8370366412e005803013",
-  "search": "google"
+  "title": "OLDFish"
 }
