@@ -21,13 +21,6 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
           "id": "site-1760451662524",
           "name": "Komari监控面板",
           "url": "https://mb.klxey.top/",
@@ -43,9 +36,9 @@ export const mockData = {
       "sites": [
         {
           "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
+          "name": "腾讯云国际",
+          "url": "https://console.tencentcloud.com/edgeone/package?",
+          "description": "腾讯云计算服务国际",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
@@ -54,6 +47,13 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
     },
