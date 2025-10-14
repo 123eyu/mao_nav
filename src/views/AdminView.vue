@@ -140,7 +140,7 @@ const saving = ref(false)
 // 管理界面状态
 const activeTab = ref('categories')
 const categories = ref([])
-const navTitle = ref('猫猫导航') // 保存网站标题
+const navTitle = ref('OLDFish导航') // 保存网站标题
 const selectedCategoryId = ref('') // 用于站点管理的选中分类
 
 // 紧急兜底：如果5秒后loading还是true，强制重置
@@ -259,13 +259,13 @@ const loadCategories = async () => {
     // 直接加载本地数据，避免GitHub API调用
     const { mockData } = await import('../mock/mock_data.js')
     categories.value = mockData.categories || []
-    navTitle.value = mockData.title || '猫猫导航'
+    navTitle.value = mockData.title || 'OLDFish导航'
     console.log('✅ 本地数据加载成功，分类数量:', categories.value.length)
   } catch (error) {
     console.error('❌ 本地数据加载失败:', error)
     // 最后兜底：使用空数组
     categories.value = []
-    navTitle.value = '猫猫导航'
+    navTitle.value = 'OLDFish导航'
   } finally {
     // 确保loading状态被重置
     loading.value = false
@@ -313,7 +313,7 @@ const skipLoading = async () => {
   try {
     const { mockData } = await import('../mock/mock_data.js')
     categories.value = mockData.categories || []
-    navTitle.value = mockData.title || '猫猫导航'
+    navTitle.value = mockData.title || 'OLDFish导航'
     console.log('跳过加载后，使用本地数据:', categories.value.length)
   } catch (error) {
     console.error('跳过加载时，本地数据加载失败:', error)
@@ -327,7 +327,7 @@ const skipLoading = async () => {
         sites: []
       }
     ]
-    navTitle.value = '猫猫导航'
+    navTitle.value = 'OLDFish导航'
   }
 
   showDialog(
@@ -412,17 +412,17 @@ onMounted(() => {
       // 使用同步方式加载本地数据
       import('../mock/mock_data.js').then(({ mockData }) => {
         categories.value = mockData.categories || []
-        navTitle.value = mockData.title || '猫猫导航'
+        navTitle.value = mockData.title || 'OLDFish导航'
         console.log('🔍 本地数据加载成功，分类数量:', categories.value.length)
       }).catch(error => {
         console.error('🔍 本地数据加载失败:', error)
         categories.value = []
-        navTitle.value = '猫猫导航'
+        navTitle.value = 'OLDFish导航'
       })
     } catch (error) {
       console.error('🔍 数据加载异常:', error)
       categories.value = []
-      navTitle.value = '猫猫导航'
+      navTitle.value = 'OLDFish导航'
     }
   }
 
