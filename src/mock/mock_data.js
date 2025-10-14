@@ -210,6 +210,13 @@ export const mockData = {
           "url": "https://wuyoucloud.de/index.php?rp=/login",
           "description": "家宽比较多的NAT小鸡，价格便宜",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760460159438",
+          "name": "独角鲸",
+          "url": "https://fuckip.me/login",
+          "description": "很便宜的NAT小鸡",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
