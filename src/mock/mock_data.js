@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://ap-northeast-1.run.claw.cloud/signin?link=FGS7Y8E2GQ7X",
           "description": "爪云",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459576987",
+          "name": "leaflow",
+          "url": "https://leaflow.net/login",
+          "description": "每天自动签到得随机金额",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
