@@ -151,6 +151,13 @@ export const mockData = {
           "url": "https://outlook.office.com/mail/",
           "description": "微软EDU登录 圣达菲学院",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760456655968",
+          "name": "loc-Email",
+          "url": "https://mail.loc.cc/webmail/?_task=mail&_mbox=INBOX",
+          "description": "论坛内Email",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
