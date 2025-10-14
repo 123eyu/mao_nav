@@ -26,13 +26,6 @@ export const mockData = {
           "url": "https://mb.klxey.top/",
           "description": "Komari监控面板",
           "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760459477246",
-          "name": "可部署zeabur",
-          "url": "https://zeabur.com/",
-          "description": "可部署项目，类似爪云",
-          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -78,24 +71,10 @@ export const mockData = {
           "icon": "/sitelogo/tongyong.png"
         },
         {
-          "id": "site-1760459430480",
-          "name": "Sealos",
-          "url": "https://gzg.sealos.run/",
-          "description": "国内免费5/元/月",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
           "id": "site-1760459500795",
           "name": "爪云",
           "url": "https://ap-northeast-1.run.claw.cloud/signin?link=FGS7Y8E2GQ7X",
           "description": "爪云",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760459576987",
-          "name": "leaflow",
-          "url": "https://leaflow.net/login",
-          "description": "每天自动签到得随机金额",
           "icon": "/sitelogo/tongyong.png"
         },
         {
@@ -216,6 +195,27 @@ export const mockData = {
           "name": "独角鲸",
           "url": "https://fuckip.me/login",
           "description": "很便宜的NAT小鸡",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459477246",
+          "name": "可部署zeabur",
+          "url": "https://zeabur.com/",
+          "description": "可部署项目，类似爪云",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459576987",
+          "name": "leaflow",
+          "url": "https://leaflow.net/login",
+          "description": "每天自动签到得随机金额",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459430480",
+          "name": "Sealos",
+          "url": "https://gzg.sealos.run/",
+          "description": "国内免费5/元/月",
           "icon": "/sitelogo/tongyong.png"
         }
       ]
