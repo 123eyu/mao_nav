@@ -24,7 +24,8 @@ export const mockData = {
           "id": "site-1760451662524",
           "name": "Komari监控面板",
           "url": "https://mb.klxey.top/",
-          "description": "Komari监控面板"
+          "description": "Komari监控面板",
+          "icon": "/public/favicon.ico"
         }
       ]
     },
