@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "youtube",
           "name": "YouTube",
           "url": "https://www.youtube.com",
@@ -134,6 +127,27 @@ export const mockData = {
           "url": "https://www.nodeseek.com",
           "description": "极客技术社区",
           "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "site-1760456143627",
+          "name": "Nodeloc",
+          "url": "https://www.nodeloc.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760456235377",
+          "name": "deepflood",
+          "url": "https://www.deepflood.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760456196193",
+          "name": "mjjbox",
+          "url": "https://mjjbox.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
