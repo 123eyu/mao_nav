@@ -113,20 +113,35 @@ export const mockData = {
       "name": "已购VPS-官网",
       "icon": "💰",
       "order": 3,
-      "sites": []
-    },
-    {
-      "id": "learning",
-      "name": "已购VPS-面板",
-      "icon": "📚",
-      "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760458194167",
+          "name": "freecloud",
+          "url": "https://run.freecloud.ltd/clientarea",
+          "description": "每日签到0.5",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458336412",
+          "name": "freecloud",
+          "url": "https://freecloud.ltd/login",
+          "description": "10天内一签到，免费VPS",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458538968",
+          "name": "极光云",
+          "url": "https://www.free-vps.net/clientarea",
+          "description": "免费VPS，每月工单",
+          "icon": "/sitelogo/tongyong.png"
+        }
+      ]
     },
     {
       "id": "design",
       "name": "E-mail",
       "icon": "💻",
-      "order": 5,
+      "order": 4,
       "sites": [
         {
           "id": "site-1760456509242",
@@ -155,7 +170,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "tencent-cloud",
@@ -179,6 +194,13 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 6,
+      "sites": []
     },
     {
       "id": "tools",
