@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://legendvps.com/login",
           "description": "新加坡便宜小鸡0.5刀",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459041466",
+          "name": "法兰克福_IPV6",
+          "url": "https://web.c-servers.co.uk/myaccount",
+          "description": "只有IPV6的垃圾服务器",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -161,6 +168,13 @@ export const mockData = {
           "name": "Uqidc",
           "url": "https://www.uqidc.com/login",
           "description": "已购买一年美国西雅图",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458858372",
+          "name": "云悠",
+          "url": "https://yunyoo.cc/login",
+          "description": "VPS一般",
           "icon": "/sitelogo/tongyong.png"
         }
       ]
