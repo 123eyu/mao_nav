@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "youtube",
           "name": "YouTube",
           "url": "https://www.youtube.com",
@@ -24,7 +17,8 @@ export const mockData = {
           "id": "site-1760451662524",
           "name": "Komari监控面板",
           "url": "https://mb.klxey.top/",
-          "description": "Komari监控面板"
+          "description": "Komari监控面板",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -75,38 +69,42 @@ export const mockData = {
           "name": "订阅通知管理系统",
           "url": "https://dytx.klxey.top/",
           "description": "订阅通知管理系统",
-          "icon": ""
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760453983464",
           "name": "sub store",
           "url": "https://d.66778.xyz/?api=https%3A%2F%2Fsub.66778.xyz",
-          "description": "机场+节点订阅集中管理"
+          "description": "机场+节点订阅集中管理",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760454170789",
           "name": "1lanel面板",
           "url": "https://pandl.klxey.top/",
           "description": "服务器在国外",
-          "icon": ""
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760454195655",
           "name": "1panel",
           "url": "http://120.220.76.58:29999/",
-          "description": "机器在国内枣庄"
+          "description": "机器在国内枣庄",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760454272976",
           "name": "青龙面板",
           "url": "https://ql.klxey.top/crontab",
-          "description": "青龙面板"
+          "description": "青龙面板",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760454384742",
           "name": "nodeloc网盘",
           "url": "https://vvpp.cc/home",
-          "description": "https://www.nodeloc.com/网盘"
+          "description": "https://www.nodeloc.com/网盘",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -129,15 +127,44 @@ export const mockData = {
           "url": "https://www.nodeseek.com",
           "description": "极客技术社区",
           "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "site-1760456143627",
+          "name": "Nodeloc",
+          "url": "https://www.nodeloc.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760456235377",
+          "name": "deepflood",
+          "url": "https://www.deepflood.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760456196193",
+          "name": "mjjbox",
+          "url": "https://mjjbox.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
     {
       "id": "design",
-      "name": "E-mail",
-      "icon": "💻",
+      "name": "设计工具",
+      "icon": "🎨",
       "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760456435093",
+          "name": "G-mail",
+          "url": "https://mail.google.com/",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        }
+      ]
     },
     {
       "id": "finance",
