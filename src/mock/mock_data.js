@@ -116,10 +116,17 @@ export const mockData = {
       "sites": []
     },
     {
+      "id": "learning",
+      "name": "已购VPS-面板",
+      "icon": "📚",
+      "order": 4,
+      "sites": []
+    },
+    {
       "id": "design",
       "name": "E-mail",
       "icon": "💻",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1760456509242",
@@ -148,7 +155,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "tencent-cloud",
@@ -172,13 +179,6 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
-    },
-    {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 6,
-      "sites": []
     },
     {
       "id": "tools",
