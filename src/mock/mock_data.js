@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://www.nodeloc.com/",
           "description": "论坛",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459430480",
+          "name": "Sealos",
+          "url": "https://gzg.sealos.run/",
+          "description": "国内免费5/元/月",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
