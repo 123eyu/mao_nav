@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://mb.klxey.top/",
           "description": "Komari监控面板",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459477246",
+          "name": "可部署zeabur",
+          "url": "https://zeabur.com/",
+          "description": "可部署项目，类似爪云",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
