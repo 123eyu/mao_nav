@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://www.deepflood.com/",
           "description": "论坛",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459381771",
+          "name": "Nodeloc",
+          "url": "https://www.nodeloc.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
