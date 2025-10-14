@@ -118,6 +118,13 @@ export const mockData = {
           "url": "https://billing.virtnet.bond/login",
           "description": "免费的IPV6",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760460113845",
+          "name": "Nodeloc",
+          "url": "https://freex.nodeloc.com/",
+          "description": "论坛小鸡，速度垃圾芬兰",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
