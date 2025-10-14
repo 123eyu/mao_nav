@@ -69,13 +69,6 @@ export const mockData = {
           "url": "https://www.nodeloc.com/",
           "description": "论坛",
           "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760459500795",
-          "name": "爪云",
-          "url": "https://ap-northeast-1.run.claw.cloud/signin?link=FGS7Y8E2GQ7X",
-          "description": "爪云",
-          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -216,6 +209,13 @@ export const mockData = {
           "name": "Nodeloc",
           "url": "https://freex.nodeloc.com/",
           "description": "论坛小鸡，速度垃圾芬兰",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459500795",
+          "name": "爪云",
+          "url": "https://ap-northeast-1.run.claw.cloud/signin?link=FGS7Y8E2GQ7X",
+          "description": "爪云",
           "icon": "/sitelogo/tongyong.png"
         }
       ]
