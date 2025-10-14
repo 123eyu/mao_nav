@@ -190,6 +190,13 @@ export const mockData = {
           "url": "https://yunyoo.cc/login",
           "description": "VPS一般",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459200034",
+          "name": "HOST",
+          "url": "https://my.justhost.asia/auth/login/?returl=",
+          "description": "比较便宜，能更换多地IP",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
