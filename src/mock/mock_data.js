@@ -134,6 +134,13 @@ export const mockData = {
           "url": "https://www.free-vps.net/clientarea",
           "description": "免费VPS，每月工单",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458593625",
+          "name": "vkvm",
+          "url": "https://www.vkvm.info/login",
+          "description": "日本免费，每月工单",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
