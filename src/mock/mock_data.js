@@ -111,6 +111,13 @@ export const mockData = {
           "url": "https://console.vitebits.com/?page=login",
           "description": "抽奖HK/年，德国法兰克福联通快乐鸡",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459809911",
+          "name": "免费IPV6",
+          "url": "https://billing.virtnet.bond/login",
+          "description": "免费的IPV6",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
