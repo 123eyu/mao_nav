@@ -144,6 +144,13 @@ export const mockData = {
           "url": "https://mail.google.com",
           "description": "",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760456583297",
+          "name": "EDU",
+          "url": "https://outlook.office.com/mail/",
+          "description": "微软EDU登录 圣达菲学院",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
