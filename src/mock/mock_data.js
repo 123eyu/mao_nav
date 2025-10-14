@@ -24,7 +24,8 @@ export const mockData = {
           "id": "site-1760451662524",
           "name": "Komari监控面板",
           "url": "https://mb.klxey.top/",
-          "description": "Komari监控面板"
+          "description": "Komari监控面板",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -249,7 +250,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "OLDFish",
-  "_fileSha": "83a01f89f058e7d75ace50b142ca06e3b5fc26ee",
-  "search": "google"
+  "title": "OLDFish"
 }
