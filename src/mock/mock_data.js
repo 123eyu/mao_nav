@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://wap.ac/login",
           "description": "一年香港服务器，IPV6，速度很垃圾",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459722668",
+          "name": "Vitebits-HK/年，德国速度很快",
+          "url": "https://console.vitebits.com/?page=login",
+          "description": "抽奖HK/年，德国法兰克福联通快乐鸡",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
