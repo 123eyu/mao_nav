@@ -30,31 +30,24 @@ export const mockData = {
       ]
     },
     {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
+      "id": "community",
+      "name": "社区论坛",
+      "icon": "👥",
       "order": 1,
       "sites": [
         {
-          "id": "tencent-cloud",
-          "name": "腾讯云国际",
-          "url": "https://console.tencentcloud.com/edgeone/package?",
-          "description": "腾讯云计算服务国际",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
+          "id": "nodeseek",
+          "name": "NodeSeek",
+          "url": "https://www.nodeseek.com",
+          "description": "极客技术社区",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
         }
       ]
     },
@@ -116,26 +109,11 @@ export const mockData = {
       ]
     },
     {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
+      "id": "finance",
+      "name": "财经投资",
+      "icon": "💰",
       "order": 3,
-      "sites": [
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "design",
@@ -167,11 +145,33 @@ export const mockData = {
       ]
     },
     {
-      "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
+      "id": "cloud",
+      "name": "云服务",
+      "icon": "☁️",
       "order": 5,
-      "sites": []
+      "sites": [
+        {
+          "id": "tencent-cloud",
+          "name": "腾讯云国际",
+          "url": "https://console.tencentcloud.com/edgeone/package?",
+          "description": "腾讯云计算服务国际",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "huawei-cloud",
+          "name": "华为云",
+          "url": "https://www.huaweicloud.com",
+          "description": "华为云计算服务",
+          "icon": "/sitelogo/www.huaweicloud.com.ico"
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        }
+      ]
     },
     {
       "id": "learning",
@@ -199,6 +199,13 @@ export const mockData = {
           "url": "https://www.bilibili.com",
           "description": "弹幕视频网站",
           "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1760457870477",
+          "name": "Emby",
+          "url": "https://test.feiniu.lol/web/index.html",
+          "description": "Emby",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
