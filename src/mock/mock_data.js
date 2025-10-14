@@ -105,6 +105,13 @@ export const mockData = {
           "url": "https://vvpp.cc/home",
           "description": "https://www.nodeloc.com/网盘",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458741628",
+          "name": "新加坡0.5usd",
+          "url": "https://legendvps.com/login",
+          "description": "新加坡便宜小鸡0.5刀",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
