@@ -126,6 +126,13 @@ export const mockData = {
           "url": "https://sadidc.com/login",
           "description": "便宜且垃圾的服务器",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459134615",
+          "name": "无忧云",
+          "url": "https://wuyoucloud.de/index.php?rp=/login",
+          "description": "家宽比较多的NAT小鸡，价格便宜",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
