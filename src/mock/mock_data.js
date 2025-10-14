@@ -59,16 +59,36 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "个人配置页",
+      "name": "开发工具",
       "icon": "🛠️",
       "order": 2,
       "sites": [
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "site-1760453623815",
+          "name": "通知订阅管理系统",
+          "url": "https://dytx.klxey.top/",
+          "description": "订阅提醒通知系统"
+        },
+        {
+          "id": "site-1760453658807",
+          "name": "sub store",
+          "url": "https://d.66778.xyz/?api=https%3A%2F%2Fsub.66778.xyz",
+          "description": "订阅管理系统",
+          "icon": ""
+        },
+        {
+          "id": "site-1760453729164",
+          "name": "1panel面板",
+          "url": "https://pandl.klxey.top/",
+          "description": "1panel面板",
+          "icon": ""
+        },
+        {
+          "id": "site-1760453782079",
+          "name": "1panel国内面板",
+          "url": "http://120.220.76.58:29999/",
+          "description": "国内机器位置在枣庄",
+          "icon": ""
         }
       ]
     },
