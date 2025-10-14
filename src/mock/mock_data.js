@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://leaflow.net/login",
           "description": "每天自动签到得随机金额",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459638644",
+          "name": "香港IPV6/年",
+          "url": "https://wap.ac/login",
+          "description": "一年香港服务器，IPV6，速度很垃圾",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
