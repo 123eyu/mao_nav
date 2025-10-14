@@ -119,6 +119,13 @@ export const mockData = {
           "url": "https://web.c-servers.co.uk/myaccount",
           "description": "只有IPV6的垃圾服务器",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459086792",
+          "name": "伤心云",
+          "url": "https://sadidc.com/login",
+          "description": "便宜且垃圾的服务器",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
