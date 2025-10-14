@@ -95,6 +95,18 @@ export const mockData = {
           "name": "1panel",
           "url": "http://120.220.76.58:29999/",
           "description": "机器在国内枣庄"
+        },
+        {
+          "id": "site-1760454272976",
+          "name": "青龙面板",
+          "url": "https://ql.klxey.top/crontab",
+          "description": "青龙面板"
+        },
+        {
+          "id": "site-1760454384742",
+          "name": "nodeloc网盘",
+          "url": "https://vvpp.cc/home",
+          "description": "https://www.nodeloc.com/网盘"
         }
       ]
     },
