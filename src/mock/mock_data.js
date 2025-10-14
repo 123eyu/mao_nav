@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://www.nodeseek.com",
           "description": "极客技术社区",
           "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "site-1760459300262",
+          "name": "mjjbox",
+          "url": "https://mjjbox.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
