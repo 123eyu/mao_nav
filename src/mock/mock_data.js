@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://gzg.sealos.run/",
           "description": "国内免费5/元/月",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459500795",
+          "name": "爪云",
+          "url": "https://ap-northeast-1.run.claw.cloud/signin?link=FGS7Y8E2GQ7X",
+          "description": "爪云",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
