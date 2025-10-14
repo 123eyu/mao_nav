@@ -19,6 +19,19 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1760451662524",
+          "name": "Komari监控面板",
+          "url": "https://mb.klxey.top/",
+          "description": "Komari监控面板"
         }
       ]
     },
@@ -28,13 +41,6 @@ export const mockData = {
       "icon": "☁️",
       "order": 1,
       "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
         {
           "id": "tencent-cloud",
           "name": "腾讯云",
@@ -183,7 +189,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "OLDFish",
-  "_fileSha": "43d9d8b48caaba36987b72c1f8dfd263d80c08ed",
-  "search": "google"
+  "title": "OLDFish"
 }
