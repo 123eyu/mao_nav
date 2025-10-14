@@ -76,6 +76,12 @@ export const mockData = {
           "url": "https://dytx.klxey.top/",
           "description": "订阅通知管理系统",
           "icon": ""
+        },
+        {
+          "id": "site-1760453983464",
+          "name": "sub store",
+          "url": "https://d.66778.xyz/?api=https%3A%2F%2Fsub.66778.xyz",
+          "description": "机场+节点订阅集中管理"
         }
       ]
     },
@@ -196,7 +202,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "OLDFish",
-  "_fileSha": "bdfd47ce35c8e01e0a1a65222da99bf15679765c",
-  "search": "google"
+  "title": "OLDFish"
 }
