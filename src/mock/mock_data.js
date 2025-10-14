@@ -141,6 +141,20 @@ export const mockData = {
           "url": "https://www.vkvm.info/login",
           "description": "日本免费，每月工单",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458637471",
+          "name": "zorocloud",
+          "url": "https://my.zorocloud.com/login",
+          "description": "美国双ISP",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760458680443",
+          "name": "Uqidc",
+          "url": "https://www.uqidc.com/login",
+          "description": "已购买一年美国西雅图",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
