@@ -560,7 +560,50 @@ export const mockData = {
       "name": "机场",
       "icon": "🌐",
       "order": 9,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760540952913",
+          "name": "雪山机场",
+          "url": "https://456.xueshan.shop/#/register?code=XuP8f1EO",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760541127915",
+          "name": "星链机场",
+          "url": "https://www.xn--mes995ajya725k.xyz/#/register?code=q0YUTAr6",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760541155374",
+          "name": "hktixcloud机场",
+          "url": "https://hktix.it.com/#/register?code=JNnogj7A",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760541214366",
+          "name": "良心云机场",
+          "url": "https://xn--9kqz23b19z.com/#/register?code=Ymnc1VeA",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760541310465",
+          "name": "Mitce",
+          "url": "https://mitce.net/aff.php?aff=21292",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760541473620",
+          "name": "每天免费节点",
+          "url": "https://zh.v2nodes.com/servers/922375/",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        }
+      ]
     },
     {
       "id": "ai-tools",
