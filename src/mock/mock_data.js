@@ -303,6 +303,13 @@ export const mockData = {
           "url": "https://mail.loc.cc/webmail/?_task=mail&_mbox=INBOX",
           "description": "论坛内Email",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760531349296",
+          "name": "QQ",
+          "url": "http://mail.qq.com",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
