@@ -595,6 +595,13 @@ export const mockData = {
           "url": "https://mitce.net/aff.php?aff=21292",
           "description": "06/刀/月-2",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760533544729",
+          "name": "免费节点",
+          "url": "https://zh.v2nodes.com/servers/922375/",
+          "description": "每日更新",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
