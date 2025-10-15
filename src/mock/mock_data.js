@@ -404,6 +404,13 @@ export const mockData = {
           "name": "DNS测试泄露",
           "url": "https://browserleaks.com/dns",
           "description": "DNS测试泄露"
+        },
+        {
+          "id": "site-1760529157515",
+          "name": "美国地址生成器",
+          "url": "https://ratenn.com/american.html",
+          "description": "美国地址生成器",
+          "icon": ""
         }
       ]
     },
