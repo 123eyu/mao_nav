@@ -553,7 +553,43 @@ export const mockData = {
       "name": "机场",
       "icon": "🌐",
       "order": 9,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760532272164",
+          "name": "雪山机场",
+          "url": "https://www.xueshan.shop/#/register?code=XuP8f1EO",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760532395345",
+          "name": "hktixcloud机场",
+          "url": "https://hktix.it.com/#/register?code=JNnogj7A",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760532453138",
+          "name": "良心云机场",
+          "url": "https://xn--9kqz23b19z.com/#/register?code=Ymnc1VeA",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760532516554",
+          "name": "星链机场",
+          "url": "https://www.xn--mes995ajya725k.xyz/#/register?code=q0YUTAr6",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760532766218",
+          "name": "狗子云",
+          "url": "https://gz-cloud.top/#/register?code=gCWhMxhN",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
+        }
+      ]
     },
     {
       "id": "ai-tools",
