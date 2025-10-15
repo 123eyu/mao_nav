@@ -588,6 +588,13 @@ export const mockData = {
           "url": "https://gz-cloud.top/#/register?code=gCWhMxhN",
           "description": "",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760533008120",
+          "name": "Mitce机场",
+          "url": "https://mitce.net/aff.php?aff=21292",
+          "description": "06/刀/月-2",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
