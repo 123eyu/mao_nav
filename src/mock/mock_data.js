@@ -365,6 +365,24 @@ export const mockData = {
           "name": "灯塔云",
           "url": "https://lamhosting.com/",
           "description": "比较便宜"
+        },
+        {
+          "id": "site-1760529805166",
+          "name": "vitebits",
+          "url": "https://console.vitebits.com/",
+          "description": "NAT小鸡，超级便宜"
+        },
+        {
+          "id": "site-1760529910403",
+          "name": "年度VPS",
+          "url": "https://echo-host.net/vps-yearly#",
+          "description": "年度VPS，超级便宜"
+        },
+        {
+          "id": "site-1760529969176",
+          "name": "廉价主机NAY",
+          "url": "https://cheaphost.me/index.php?rp=/store/japan-softbank-kvm-nat",
+          "description": "廉价的NAT-VPS，日本软银速度可以"
         }
       ]
     },
