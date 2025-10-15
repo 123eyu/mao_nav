@@ -437,55 +437,64 @@ export const mockData = {
           "id": "site-1760529632531",
           "name": "非凡云",
           "url": "https://www.ffy.com/",
-          "description": "9元vps"
+          "description": "9元vps",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760529692369",
           "name": "免费VPS",
           "url": "https://hax.co.id/create-vps/",
-          "description": "需5天签到一次"
+          "description": "需5天签到一次",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760529745095",
           "name": "灯塔云",
           "url": "https://lamhosting.com/",
-          "description": "比较便宜"
+          "description": "比较便宜",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760529805166",
           "name": "vitebits",
           "url": "https://console.vitebits.com/",
-          "description": "NAT小鸡，超级便宜"
+          "description": "NAT小鸡，超级便宜",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760529910403",
           "name": "年度VPS",
           "url": "https://echo-host.net/vps-yearly#",
-          "description": "年度VPS，超级便宜"
+          "description": "年度VPS，超级便宜",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760529969176",
           "name": "廉价主机NAY",
           "url": "https://cheaphost.me/index.php?rp=/store/japan-softbank-kvm-nat",
-          "description": "廉价的NAT-VPS，日本软银速度可以"
+          "description": "廉价的NAT-VPS，日本软银速度可以",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760530049884",
           "name": "各个网站优惠码",
           "url": "https://zh.hostadvice.com/hosting-company/host-europe-coupons/?_gl=1*1jp04d4*_gcl_au*MTAzNDEyOTAzMS4xNzYwNTMwMDE5",
-          "description": "优惠券"
+          "description": "优惠券",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760530084886",
           "name": "绿云",
           "url": "https://greencloudvps.com/billing/store/budget-kvm-sale",
-          "description": "绿云"
+          "description": "绿云",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760530172741",
           "name": "evoxt",
           "url": "https://console.evoxt.com/",
-          "description": "凑合"
+          "description": "凑合",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760530223902",
@@ -498,13 +507,15 @@ export const mockData = {
           "id": "site-1760530345814",
           "name": "ipraft，双isp",
           "url": "https://ipraft.com/",
-          "description": "双isp，价格3刀"
+          "description": "双isp，价格3刀",
+          "icon": "/sitelogo/tongyong.png"
         },
         {
           "id": "site-1760530396060",
           "name": "日本家宽",
           "url": "https://lxc.miraigrid.com/",
-          "description": "日本家宽35/月"
+          "description": "日本家宽35/月",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
