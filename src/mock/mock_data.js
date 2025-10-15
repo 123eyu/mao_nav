@@ -395,6 +395,19 @@ export const mockData = {
           "name": "绿云",
           "url": "https://greencloudvps.com/billing/store/budget-kvm-sale",
           "description": "绿云"
+        },
+        {
+          "id": "site-1760530172741",
+          "name": "evoxt",
+          "url": "https://console.evoxt.com/",
+          "description": "凑合"
+        },
+        {
+          "id": "site-1760530223902",
+          "name": "鸭一云",
+          "url": "https://duckyci.com/auth/sign-in?redirect=https%3A%2F%2Fnext.duckyci.com%2F%3Fregion%3Djp-tokyo%26availability_domain%3D1%26fault_domain%3Dauto%26shape%3DVM.Optimized.D1.Mini%26ipv4%3D1%26ipv6_subnet%3D1%26image%3Ddebian11%26capacity_type%3Don-demand%26pay_cycle%3Dmonthly",
+          "description": "全是NAT小鸡很便宜，只是速度很垃圾",
+          "icon": ""
         }
       ]
     },
