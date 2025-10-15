@@ -365,6 +365,45 @@ export const mockData = {
           "url": "https://www.cesu.net/",
           "description": "测试网速",
           "icon": ""
+        },
+        {
+          "id": "site-1760528815979",
+          "name": "查看本机ip",
+          "url": "https://iplark.com/",
+          "description": "检测查看本地ip",
+          "icon": ""
+        },
+        {
+          "id": "site-1760528961553",
+          "name": "ip检测",
+          "url": "https://ipinfo.io/products/ip-company-api",
+          "description": "ip检测"
+        },
+        {
+          "id": "site-1760528983538",
+          "name": "ip检测",
+          "url": "https://demo.fastlyedge.com/",
+          "description": "ip检测",
+          "icon": ""
+        },
+        {
+          "id": "site-1760529013015",
+          "name": "测速",
+          "url": "https://www.speedtest.net/",
+          "description": "测速",
+          "icon": ""
+        },
+        {
+          "id": "site-1760529088482",
+          "name": "google测速",
+          "url": "https://fiber.google.com/speedtest/",
+          "description": "google测速"
+        },
+        {
+          "id": "site-1760529118600",
+          "name": "DNS测试泄露",
+          "url": "https://browserleaks.com/dns",
+          "description": "DNS测试泄露"
         }
       ]
     },
