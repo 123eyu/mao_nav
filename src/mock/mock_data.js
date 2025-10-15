@@ -383,6 +383,18 @@ export const mockData = {
           "name": "廉价主机NAY",
           "url": "https://cheaphost.me/index.php?rp=/store/japan-softbank-kvm-nat",
           "description": "廉价的NAT-VPS，日本软银速度可以"
+        },
+        {
+          "id": "site-1760530049884",
+          "name": "各个网站优惠码",
+          "url": "https://zh.hostadvice.com/hosting-company/host-europe-coupons/?_gl=1*1jp04d4*_gcl_au*MTAzNDEyOTAzMS4xNzYwNTMwMDE5",
+          "description": "优惠券"
+        },
+        {
+          "id": "site-1760530084886",
+          "name": "绿云",
+          "url": "https://greencloudvps.com/billing/store/budget-kvm-sale",
+          "description": "绿云"
         }
       ]
     },
