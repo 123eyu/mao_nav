@@ -347,7 +347,26 @@ export const mockData = {
       "name": "VPS资源网站",
       "icon": "⚙️",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760529632531",
+          "name": "非凡云",
+          "url": "https://www.ffy.com/",
+          "description": "9元vps"
+        },
+        {
+          "id": "site-1760529692369",
+          "name": "免费VPS",
+          "url": "https://hax.co.id/create-vps/",
+          "description": "需5天签到一次"
+        },
+        {
+          "id": "site-1760529745095",
+          "name": "灯塔云",
+          "url": "https://lamhosting.com/",
+          "description": "比较便宜"
+        }
+      ]
     },
     {
       "id": "entertainment",
