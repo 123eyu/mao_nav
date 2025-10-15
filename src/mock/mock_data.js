@@ -339,6 +339,13 @@ export const mockData = {
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1760533624759",
+          "name": "阿里云国际",
+          "url": "https://www.alibabacloud.com/",
+          "description": "阿里云国际",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -553,57 +560,7 @@ export const mockData = {
       "name": "机场",
       "icon": "🌐",
       "order": 9,
-      "sites": [
-        {
-          "id": "site-1760532272164",
-          "name": "雪山机场",
-          "url": "https://www.xueshan.shop/#/register?code=XuP8f1EO",
-          "description": "",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760532395345",
-          "name": "hktixcloud机场",
-          "url": "https://hktix.it.com/#/register?code=JNnogj7A",
-          "description": "",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760532453138",
-          "name": "良心云机场",
-          "url": "https://xn--9kqz23b19z.com/#/register?code=Ymnc1VeA",
-          "description": "",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760532516554",
-          "name": "星链机场",
-          "url": "https://www.xn--mes995ajya725k.xyz/#/register?code=q0YUTAr6",
-          "description": "",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760532766218",
-          "name": "狗子云",
-          "url": "https://gz-cloud.top/#/register?code=gCWhMxhN",
-          "description": "",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760533008120",
-          "name": "Mitce机场",
-          "url": "https://mitce.net/aff.php?aff=21292",
-          "description": "06/刀/月-2",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
-          "id": "site-1760533544729",
-          "name": "免费节点",
-          "url": "https://zh.v2nodes.com/servers/922375/",
-          "description": "每日更新",
-          "icon": "/sitelogo/tongyong.png"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "ai-tools",
