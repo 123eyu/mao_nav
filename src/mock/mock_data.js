@@ -553,15 +553,7 @@ export const mockData = {
       "name": "办公协作",
       "icon": "💼",
       "order": 9,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "ai-tools",
@@ -596,6 +588,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "notion",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "全能工作空间",
+          "icon": "/sitelogo/www.notion.so.ico"
         }
       ]
     }
