@@ -340,7 +340,33 @@ export const mockData = {
       "name": "学习资源",
       "icon": "📚",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760528642681",
+          "name": "国际学生证生成器",
+          "url": "https://student.frp.gs/",
+          "description": "国际学生证生成器"
+        },
+        {
+          "id": "site-1760528688176",
+          "name": "UUID生成器",
+          "url": "https://1024tools.com/uuid",
+          "description": "UUID生成器"
+        },
+        {
+          "id": "site-1760528753706",
+          "name": "ping-ip",
+          "url": "https://www.itdog.cn/",
+          "description": "检测ip全国ping和速度"
+        },
+        {
+          "id": "site-1760528777233",
+          "name": "测网速",
+          "url": "https://www.cesu.net/",
+          "description": "测试网速",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "tools",
