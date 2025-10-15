@@ -339,6 +339,13 @@ export const mockData = {
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1760531889951",
+          "name": "阿里云国际",
+          "url": "https://www.alibabacloud.com/",
+          "description": "",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
