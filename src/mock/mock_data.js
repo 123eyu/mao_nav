@@ -645,6 +645,13 @@ export const mockData = {
           "url": "https://www.notion.so",
           "description": "全能工作空间",
           "icon": "/sitelogo/www.notion.so.ico"
+        },
+        {
+          "id": "site-1761010167042",
+          "name": "哦拉马",
+          "url": "https://ollama.com/search",
+          "description": "",
+          "icon": ""
         }
       ]
     }
