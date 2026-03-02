@@ -511,13 +511,6 @@ export const mockData = {
           "icon": "/sitelogo/tongyong.png"
         },
         {
-          "id": "site-1760530223902",
-          "name": "鸭一云",
-          "url": "https://duckyci.com/auth/sign-in?redirect=https%3A%2F%2Fnext.duckyci.com%2F%3Fregion%3Djp-tokyo%26availability_domain%3D1%26fault_domain%3Dauto%26shape%3DVM.Optimized.D1.Mini%26ipv4%3D1%26ipv6_subnet%3D1%26image%3Ddebian11%26capacity_type%3Don-demand%26pay_cycle%3Dmonthly",
-          "description": "全是NAT小鸡很便宜，只是速度很垃圾",
-          "icon": ""
-        },
-        {
           "id": "site-1760530345814",
           "name": "ipraft，双isp",
           "url": "https://ipraft.com/",
@@ -656,7 +649,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "OLDFish",
-  "_fileSha": "211f5044c21d08b392721596314402b8929fa133",
-  "search": "google"
+  "title": "OLDFish"
 }
