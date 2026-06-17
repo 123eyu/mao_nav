@@ -62,6 +62,12 @@ export const mockData = {
           "url": "https://www.nodeloc.com/",
           "description": "论坛",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1781683223251",
+          "name": "ai注册机论坛",
+          "url": "https://dc.hhhl.cc/",
+          "description": ""
         }
       ]
     },
