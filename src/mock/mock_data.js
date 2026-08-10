@@ -68,6 +68,19 @@ export const mockData = {
           "name": "ai注册机论坛",
           "url": "https://dc.hhhl.cc/",
           "description": ""
+        },
+        {
+          "id": "site-1786365957947",
+          "name": "傻逼linux站",
+          "url": "https://linux.sb/",
+          "description": "一个看不惯L站的神仙"
+        },
+        {
+          "id": "site-1786365989864",
+          "name": "L站bi",
+          "url": "https://www.linux.bi",
+          "description": "",
+          "icon": ""
         }
       ]
     },
