@@ -43,13 +43,6 @@ export const mockData = {
           "icon": "/sitelogo/www.nodeseek.com.ico"
         },
         {
-          "id": "site-1760459300262",
-          "name": "mjjbox",
-          "url": "https://mjjbox.com/",
-          "description": "论坛",
-          "icon": "/sitelogo/tongyong.png"
-        },
-        {
           "id": "site-1760459351846",
           "name": "Deepflood",
           "url": "https://www.deepflood.com/",
@@ -70,17 +63,24 @@ export const mockData = {
           "description": ""
         },
         {
-          "id": "site-1786365957947",
-          "name": "傻逼linux站",
+          "id": "site-1786366148485",
+          "name": "傻逼L站",
           "url": "https://linux.sb/",
-          "description": "一个看不惯L站的神仙"
+          "description": ""
         },
         {
-          "id": "site-1786365989864",
-          "name": "L站bi",
-          "url": "https://www.linux.bi",
+          "id": "site-1786366165752",
+          "name": "L站打傻逼",
+          "url": "https://www.linux.bi/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1760459300262",
+          "name": "mjjbox",
+          "url": "https://mjjbox.com/",
+          "description": "论坛",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
