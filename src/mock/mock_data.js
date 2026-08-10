@@ -63,19 +63,6 @@ export const mockData = {
           "description": ""
         },
         {
-          "id": "site-1786366148485",
-          "name": "傻逼L站",
-          "url": "https://linux.sb/",
-          "description": ""
-        },
-        {
-          "id": "site-1786366165752",
-          "name": "L站打傻逼",
-          "url": "https://www.linux.bi/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1760459300262",
           "name": "mjjbox",
           "url": "https://mjjbox.com/",
