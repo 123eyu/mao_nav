@@ -26,6 +26,12 @@ export const mockData = {
           "url": "https://api.klxey.com",
           "description": "中专",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1792140024695",
+          "name": "CPA",
+          "url": "https://ai.klxey.de/management.html#/system",
+          "description": "CPA"
         }
       ]
     },
