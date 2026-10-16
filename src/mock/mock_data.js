@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://mb.klxey.top/",
           "description": "Komari监控面板",
           "icon": "/sitelogo/tongyong.png"
+        },
+        {
+          "id": "site-1760459300262",
+          "name": "迪答哒ai聚合",
+          "url": "https://api.klxey.com",
+          "description": "中专",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
@@ -61,13 +68,6 @@ export const mockData = {
           "name": "ai注册机论坛",
           "url": "https://dc.hhhl.cc/",
           "description": ""
-        },
-        {
-          "id": "site-1760459300262",
-          "name": "mjjbox",
-          "url": "https://mjjbox.com/",
-          "description": "论坛",
-          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
