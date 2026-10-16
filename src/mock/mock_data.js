@@ -31,7 +31,8 @@ export const mockData = {
           "id": "site-1792140024695",
           "name": "CPA",
           "url": "https://ai.klxey.de/management.html#/system",
-          "description": "CPA"
+          "description": "CPA",
+          "icon": "/sitelogo/tongyong.png"
         }
       ]
     },
